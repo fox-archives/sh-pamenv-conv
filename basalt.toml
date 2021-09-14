@@ -1,0 +1,8 @@
+[package]
+name = 'bash-pamenv-conf'
+slug = 'bash_pamenv_conf'
+version = ''
+authors = ['']
+
+[requirements]
+dependencies = ['hyperupcall/bash-args@e5466e6c3998790ebd99768cf0f910e161b84a95', 'hyperupcall/bash-object@9758167747a514c5ecdadcbe83ce42dad0d2976b']
