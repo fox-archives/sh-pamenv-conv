@@ -1,4 +1,4 @@
-# bash-pamenv-conf
+# sh-pamenv-conf
 
 Convert `pam_env.conf` syntax to something executable by a POSIX shell
 

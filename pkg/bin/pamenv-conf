@@ -61,5 +61,5 @@ eval "$(basalt-package-init)"; basalt.package-init
 basalt.package-load
 
 # shellcheck disable=SC1091
-source "$BASALT_PACKAGE_PATH/pkg/lib/cmd/pamenv-conf.sh"
+source "$BASALT_PACKAGE_DIR/pkg/lib/cmd/pamenv-conf.sh"
 pamenv-conf.main "$@"
